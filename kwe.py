@@ -4,7 +4,6 @@
 from os import path
 import sys
 import re
-from urllib import request
 from collections import Counter
 from pymorphy2 import MorphAnalyzer
 from nltk.corpus import stopwords
